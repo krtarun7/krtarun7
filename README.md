@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Java, Full stack devlopment*
 
-- 📫 How to reach me *www.linkedin.com/in/mukul-singh-91803421a*
+- 📫 How to reach me *www.linkedin.com/in/krtarun7*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
