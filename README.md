@@ -1,6 +1,6 @@
 <img width="100%" height="400px" src="pc.gif" alt="banner">
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
-<h3 align="center">A passionate CSE student from India</h3>
+<h3 align="center">A passionate Computer Science Engineer</h3>
 <img align="right" border-radius:20% width="300px"  src="https://media.tenor.com/1j5d_905zRsAAAAC/developer-computer.gif" alt="welcome img">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krtarun7&label=Profile%20views&color=0e75b6&style=flat" alt="Krtarun7" /> </p>
