@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krtarun7&label=Profile%20views&color=0e75b6&style=flat" alt="Krtarun7" /> </p>
 
-- 🌱 I’m currently learning *Java Backend Development(Spring Boot), Cloud AWS and DevOps*
+- 🌱 I’m currently learning *Java Backend Development(Spring Boot),Python programming, Gen AI,LLM modes,Cloud AWS and DevOps*
 
 - 📫 How to reach me *www.linkedin.com/in/krtarun7*
 
