@@ -1,6 +1,7 @@
 <div align="center">
+  <!-- Dynamic Animated Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Tarun+Kumar;Python+Backend+%26+Distributed+Systems;FastAPI+%7C+Django+%7C+Async+APIs+%7C+Cloud;DevOps+%26+Scalable+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Tarun+Kumar;Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+Distributed+Systems;DSA+%7C+DBMS+%7C+System+Design" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -15,6 +16,7 @@
     </a>
   </p>
 
+  <!-- High-Uptime Profile View Badge -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Krtarun7&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
@@ -29,10 +31,10 @@
     <td width="65%" valign="top">
       <ul>
         <li>🎓 <b>Background:</b> Computer Science & Engineering</li>
-        <li>⚡ <b>Core Focus:</b> High-Performance Backend Architectures, Asynchronous Microservices & RESTful APIs</li>
+        <li>⚡ <b>Core Focus:</b> High-Performance Backend Architectures, Asynchronous APIs & Microservices</li>
         <li>🐍 <b>Primary Stack:</b> Python, FastAPI, Django, PostgreSQL, and Redis caching layers</li>
-        <li>🚀 <b>Engineering Practices:</b> Distributed caching, message brokers, clean architecture, and ORM optimizations</li>
-        <li>☁️ <b>Cloud & DevOps:</b> Docker containerization, CI/CD pipelines, and AWS deployment workflows</li>
+        <li>🧩 <b>Problem Solving:</b> Data Structures & Algorithms with clean, optimized complexity</li>
+        <li>🏗️ <b>Engineering:</b> System Design, Database Indexing & Normalization, Containerization</li>
         <li>📫 <b>Get in touch:</b> Connect with me on <a href="https://www.linkedin.com/in/krtarun7">LinkedIn</a></li>
       </ul>
     </td>
@@ -44,26 +46,32 @@
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### 🧠 Core Computer Science
 
-**Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,flask,js,bash" alt="Languages & Frameworks" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/System_Design-4A90E2?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/DBMS_&_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBMS" />
+  <img src="https://img.shields.io/badge/OS_&_Networking-232F3E?style=for-the-badge&logo=linux&logoColor=white" alt="OS and Networks" />
 </p>
 
-**Databases & Caching Layer**
+---
+
+### 🛠️ Tech Stack
+
+**Backend & APIs**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite" alt="Databases and Caching" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postman" alt="Backend & APIs" />
 </p>
 
-**Backend Tools, APIs & Protocols**
+**Databases & Caching**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,graphql,nginx,kafka,rabbitmq" alt="Backend Tools & Protocols" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Databases & Caching" />
 </p>
 
-**Cloud, DevOps & Environments**
+**Cloud & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" alt="Cloud & DevOps" />
 </p>
 
 ---
@@ -71,20 +79,13 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Krtarun7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krtarun7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
+  <!-- 100% Reliable Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krtarun7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Dynamic GitHub Achievements / Trophies (Always online & responsive) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Krtarun7&theme=tokyonight&no-frame=true&no-bg=true&margin_w=15" alt="GitHub Trophies" />
 </div>
 
 ---
