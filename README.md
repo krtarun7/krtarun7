@@ -1,8 +1,13 @@
 <div align="center">
-  <!-- Dynamic Animated Typing Banner -->
+  <!-- Static Name Header -->
+  <h1>Hi 👋, I'm <span style="color: #38bdf8;">Tarun Kumar</span></h1>
+
+  <!-- Dynamic Typing Subtitle (Tech changes continuously) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Tarun+Kumar;Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+Distributed+Systems;DSA+%7C+DBMS+%7C+System+Design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=94A3B8&center=true&vCenter=true&width=550&lines=Python+Backend+Developer;FastAPI+%7C+Django+%7C+PostgreSQL;DSA+%7C+System+Design+%7C+DBMS;Scalable+Microservices+%26+Distributed+Systems;Docker+%7C+AWS+%7C+Cloud+Architecture" alt="Typing Tech Subtitle" />
   </a>
+
+  <br/><br/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/krtarun7" target="_blank">
@@ -79,17 +84,28 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- 100% Reliable Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krtarun7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- Dynamic GitHub Achievements / Trophies (Always online & responsive) -->
   <img src="https://github-profile-trophy.vercel.app/?username=Krtarun7&theme=tokyonight&no-frame=true&no-bg=true&margin_w=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
+### 💬 Engineering Philosophy
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> — **Martin Fowler**
+
+> *"First, solve the problem. Then, write the code."*  
+> — **John Johnson**
+
+> *"Simplicity is prerequisite for reliability."*  
+> — **Edsger W. Dijkstra**
+
+<br/>
+
 <div align="center">
-  <sub>⚡ Engineered with clean architecture & scalable backend patterns by Tarun Kumar</sub>
+  <sub>⚡ Designed & Engineered with precision by Tarun Kumar</sub>
 </div>
